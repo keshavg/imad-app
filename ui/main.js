@@ -1,5 +1,7 @@
 console.log('Loaded!');
 
+var content = document.getElementById('main_content');
+content.innerHTML = "Hello World!!";
 
 var img = document.getElementById('madi');
 

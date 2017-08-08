@@ -10,7 +10,7 @@ var marginLeft = 0;
 function moveElement()
 {
    marginLeft = marginLeft + 10;
-   img.style.margin-left = marginLeft + 'px';
+   img.style.marginLeft = marginLeft + 'px';
     
 }
 

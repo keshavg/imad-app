@@ -16,5 +16,5 @@ function moveElement()
 
 img.onClick = function()
 {
-    var interval = setTimeInterval(moveElement,100);
+    var interval = setInterval(moveElement,100);
 };
